@@ -4,6 +4,7 @@
 함수
 리스트
 튜플
+람다
 
 과제
 1.get_area()(2주차:76장)
@@ -17,7 +18,8 @@
    ```
 
 3.행, 열, 문자 인수로 받아 중첩 반복문으로 출력(2주차:94장)
-```def printPattern(rows=5, cols=5, char="*"):
-	pass
-```
+
+(def printPattern(rows=5, cols=5, char="*"):
+	pass)
+
 4.가변인수 합계
