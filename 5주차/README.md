@@ -5,7 +5,7 @@
 지역변수,전역변수 이름 같아도 가능
 
 여러 개의 정수를 한 줄에 입력받아서 리스트에 저장
--> a=a=list(map(int,input().split()))
+> a=list(map(int,input().split()))
 
 
 
