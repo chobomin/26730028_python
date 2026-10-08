@@ -15,6 +15,7 @@ temps = [28, 31, 33, 35, 27, 26, 25]
 values = list(temps) #깊은 복사
 
 
-for i in range(시작값,끝값, 단계)
-a[시작값:끝값:단계]
-ell
+#for i in range(시작값,끝값, 단계)
+
+
+  
