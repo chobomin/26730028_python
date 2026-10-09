@@ -1,0 +1,5 @@
+n,h,w=input().split()
+w=float(w)
+print("NAME: ",n)
+print("HEIGHT: ",h + "cm")
+print("WEIGHT: ", format(w, ".2f"), "kg", sep="")
